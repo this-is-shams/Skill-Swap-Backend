@@ -2,7 +2,7 @@
   "name": "backend_server",
   "version": "1.0.0",
   "description": "This is for backend code segment",
-  "main": "./api/*.ts",
+  "main": "./index,js",
   "scripts": {
     "start": "node index.js",
     "start-dev": "nodemon index.js",
